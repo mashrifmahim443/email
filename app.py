@@ -133,7 +133,7 @@ Please log in to your account and complete the remaining classes as soon as poss
 If you have any questions or need assistance, please don't hesitate to contact us.
 
 Best regards,
-Academic Team"""
+Innovative Skills LTD"""
                 
                 progress_bar = st.progress(0)
                 success_count = 0
